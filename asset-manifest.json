@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/communitytech/static/css/main.8cadc2c2.css",
+    "main.js": "/communitytech/static/js/main.b9dc9ea4.js",
+    "static/media/daymondprotectiongroup.png": "/communitytech/static/media/daymondprotectiongroup.eca0567fdcf754531ea2.png",
+    "static/media/empireroofing.png": "/communitytech/static/media/empireroofing.ae7db29a5b7af4c3ba5c.png",
+    "static/media/web-dev.svg": "/communitytech/static/media/web-dev.dec0ad5967a1767b4c7803fb6fe0db19.svg",
+    "static/media/socialmedia.svg": "/communitytech/static/media/socialmedia.b846db06b093457bc5fb3880b5284344.svg",
+    "static/media/email.svg": "/communitytech/static/media/email.70752172a62bae68b5cb02f075f3c1df.svg",
+    "static/media/telemarketing.svg": "/communitytech/static/media/telemarketing.77881fe44d691957e0572825702bbcc9.svg",
+    "static/media/Web-developer.svg": "/communitytech/static/media/Web-developer.e72500354b922e7fdfa8523e825ed0fc.svg",
+    "static/media/sms.svg": "/communitytech/static/media/sms.02a7c6f87892e98d505c7e0965d626bf.svg",
+    "static/media/footer.svg": "/communitytech/static/media/footer.89f3094d630e3b4bdfee.svg",
+    "static/media/supply.svg": "/communitytech/static/media/supply.110bc308b107d1c17030c8598c84def9.svg",
+    "static/media/assess.svg": "/communitytech/static/media/assess.605a960a9fec6a9f975ef8ae0576287f.svg",
+    "index.html": "/communitytech/index.html",
+    "static/media/hero-bg.svg": "/communitytech/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.8cadc2c2.css.map": "/communitytech/static/css/main.8cadc2c2.css.map",
+    "main.b9dc9ea4.js.map": "/communitytech/static/js/main.b9dc9ea4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cadc2c2.css",
+    "static/js/main.b9dc9ea4.js"
+  ]
+}
