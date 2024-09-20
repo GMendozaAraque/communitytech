@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/communitytech/static/css/main.0f24dd9f.css",
-    "main.js": "/communitytech/static/js/main.95a9f7da.js",
-    "static/media/daymondprotectiongroup.png": "/communitytech/static/media/daymondprotectiongroup.eca0567fdcf754531ea2.png",
-    "static/media/empireroofing.png": "/communitytech/static/media/empireroofing.ae7db29a5b7af4c3ba5c.png",
-    "static/media/web-dev.svg": "/communitytech/static/media/web-dev.dec0ad5967a1767b4c7803fb6fe0db19.svg",
-    "static/media/socialmedia.svg": "/communitytech/static/media/socialmedia.b846db06b093457bc5fb3880b5284344.svg",
-    "static/media/email.svg": "/communitytech/static/media/email.70752172a62bae68b5cb02f075f3c1df.svg",
-    "static/media/telemarketing.svg": "/communitytech/static/media/telemarketing.77881fe44d691957e0572825702bbcc9.svg",
-    "static/media/Web-developer.svg": "/communitytech/static/media/Web-developer.e72500354b922e7fdfa8523e825ed0fc.svg",
-    "static/media/sms.svg": "/communitytech/static/media/sms.02a7c6f87892e98d505c7e0965d626bf.svg",
-    "static/media/footer.svg": "/communitytech/static/media/footer.89f3094d630e3b4bdfee.svg",
-    "static/media/supply.svg": "/communitytech/static/media/supply.110bc308b107d1c17030c8598c84def9.svg",
-    "static/media/assess.svg": "/communitytech/static/media/assess.605a960a9fec6a9f975ef8ae0576287f.svg",
-    "index.html": "/communitytech/index.html",
-    "static/media/hero-bg.svg": "/communitytech/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
-    "main.0f24dd9f.css.map": "/communitytech/static/css/main.0f24dd9f.css.map",
-    "main.95a9f7da.js.map": "/communitytech/static/js/main.95a9f7da.js.map"
+    "main.css": "/static/css/main.0c10cee8.css",
+    "main.js": "/static/js/main.3d980359.js",
+    "static/media/daymondprotectiongroup.png": "/static/media/daymondprotectiongroup.eca0567fdcf754531ea2.png",
+    "static/media/empireroofing.png": "/static/media/empireroofing.ae7db29a5b7af4c3ba5c.png",
+    "static/media/web-dev.svg": "/static/media/web-dev.dec0ad5967a1767b4c7803fb6fe0db19.svg",
+    "static/media/socialmedia.svg": "/static/media/socialmedia.b846db06b093457bc5fb3880b5284344.svg",
+    "static/media/email.svg": "/static/media/email.70752172a62bae68b5cb02f075f3c1df.svg",
+    "static/media/telemarketing.svg": "/static/media/telemarketing.77881fe44d691957e0572825702bbcc9.svg",
+    "static/media/Web-developer.svg": "/static/media/Web-developer.e72500354b922e7fdfa8523e825ed0fc.svg",
+    "static/media/sms.svg": "/static/media/sms.02a7c6f87892e98d505c7e0965d626bf.svg",
+    "static/media/footer.svg": "/static/media/footer.89f3094d630e3b4bdfee.svg",
+    "static/media/supply.svg": "/static/media/supply.110bc308b107d1c17030c8598c84def9.svg",
+    "static/media/assess.svg": "/static/media/assess.605a960a9fec6a9f975ef8ae0576287f.svg",
+    "index.html": "/index.html",
+    "static/media/hero-bg.svg": "/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
+    "main.0c10cee8.css.map": "/static/css/main.0c10cee8.css.map",
+    "main.3d980359.js.map": "/static/js/main.3d980359.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f24dd9f.css",
-    "static/js/main.95a9f7da.js"
+    "static/css/main.0c10cee8.css",
+    "static/js/main.3d980359.js"
   ]
 }
