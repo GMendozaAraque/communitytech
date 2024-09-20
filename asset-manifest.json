@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/communitytech/static/css/main.8cadc2c2.css",
+    "main.css": "/communitytech/static/css/main.0f24dd9f.css",
     "main.js": "/communitytech/static/js/main.95a9f7da.js",
     "static/media/daymondprotectiongroup.png": "/communitytech/static/media/daymondprotectiongroup.eca0567fdcf754531ea2.png",
     "static/media/empireroofing.png": "/communitytech/static/media/empireroofing.ae7db29a5b7af4c3ba5c.png",
@@ -15,11 +15,11 @@
     "static/media/assess.svg": "/communitytech/static/media/assess.605a960a9fec6a9f975ef8ae0576287f.svg",
     "index.html": "/communitytech/index.html",
     "static/media/hero-bg.svg": "/communitytech/static/media/hero-bg.2237f2b6be81c21a80a6.svg",
-    "main.8cadc2c2.css.map": "/communitytech/static/css/main.8cadc2c2.css.map",
+    "main.0f24dd9f.css.map": "/communitytech/static/css/main.0f24dd9f.css.map",
     "main.95a9f7da.js.map": "/communitytech/static/js/main.95a9f7da.js.map"
   },
   "entrypoints": [
-    "static/css/main.8cadc2c2.css",
+    "static/css/main.0f24dd9f.css",
     "static/js/main.95a9f7da.js"
   ]
 }
